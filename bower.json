@@ -1,0 +1,22 @@
+{
+  "name": "weapp-auth-user-info",
+  "homepage": "https://github.com/afeiship/weapp-auth-user-info",
+  "authors": [
+    "afeiship <1290657123@qq.com>"
+  ],
+  "description": "Authorization component get user info for weapp.",
+  "main": "index.js",
+  "keywords": [
+    "weapp",
+    "wechat",
+    "mini"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
