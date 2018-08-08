@@ -1,0 +1,32 @@
+{
+  "name": "weapp-auth-user-info",
+  "version": "1.0.0",
+  "description": "Authorization component get user info for weapp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/weapp-auth-user-info.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "weapp"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/weapp-auth-user-info/issues"
+  },
+  "homepage": "https://github.com/afeiship/weapp-auth-user-info#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1"
+  }
+}

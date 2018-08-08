@@ -5,7 +5,6 @@
     "afeiship <1290657123@qq.com>"
   ],
   "description": "Authorization component get user info for weapp.",
-  "main": "index.js",
   "keywords": [
     "weapp",
     "wechat",

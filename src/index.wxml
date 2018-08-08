@@ -1,0 +1,1 @@
+<button bindgetuserinfo="auth" class="weapp-auth-user-info" open-type="getUserInfo"/>
