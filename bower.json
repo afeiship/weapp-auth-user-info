@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "ignore": [
-    "README.md",
+    "src",
     "**/.*",
     "gulpfile.js",
     "package-lock.json",
