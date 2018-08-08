@@ -2,11 +2,15 @@ Component({
   properties: {
     visible: {
       type: Boolean,
-      value: true
+      value: false
     }
+  },
+  created() {
+    this.visible = true;
   },
   methods: {
     auth() {
+      this.visible = false;
     }
   }
 });

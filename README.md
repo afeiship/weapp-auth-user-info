@@ -18,7 +18,7 @@ bower install --save afeiship/weapp-auth-user-info
 {
   "navigationBarTitleText": "YOUR PAGE TITLE",
   "usingComponents": {
-    "auth-user-info": "../../bower_components/weapp-auth-user-info/index"
+    "weapp-auth-user-info": "../../bower_components/weapp-auth-user-info/dist/index"
   }
 }
 ```

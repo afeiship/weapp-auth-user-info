@@ -1,7 +1,8 @@
 /**index Start**/
 .weapp-auth-user-info {
   position: fixed;
-  z-index: 1;
+  background: rgba(#000,0.01);
+  z-index: 10;
   left: 0;
   right: 0;
   top: 0;
